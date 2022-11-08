@@ -1,5 +1,6 @@
 # MakeTimelines-w-Matplotlib
-Created in VS Code
+----------
+      Created in VS Code
 ----------
 Quick and easy tutorial on how to make Matplotlib timelines.
 ----------
