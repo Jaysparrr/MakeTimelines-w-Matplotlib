@@ -9,6 +9,11 @@ Change Log (Most Recent: Nov 8, 2022)
       - Added the Horizontal timeline tutorial
              - All sections are labled
              - Data from w3schools
+      - Added the Vertical timeline tutorial
+             - All sections are labled
+                  - Pay special attention to the **Imports**
+                  - The heading **Axvline** starts the vertical conversion
+             - Data from w3schools
 <!--
 SECRET SECTION (for those of you who opened)
 -->
