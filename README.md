@@ -1,5 +1,5 @@
 # MakeTimelines-w-Matplotlib
-      Created in VS Code
+Created in VS Code
 Quick and easy tutorial on how to make Matplotlib timelines.
 ----------
 Change Log (Most Recent: Nov 8, 2022)
@@ -7,8 +7,9 @@ Change Log (Most Recent: Nov 8, 2022)
 - Added the Horizontal timeline tutorial
   - All sections are labled
   - Data from w3schools
-  
-(VIEW THIS SECTION IN NOTEPAD)
+----------
+VIEW THIS SECTION IN NOTEPAD
+----------
   
                         gG88Pp                    
                      8888888b                   
