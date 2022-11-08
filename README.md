@@ -1,7 +1,6 @@
 # MakeTimelines-w-Matplotlib
 ----------
       Created in VS Code
-<img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' width='200' alt='bigrunmoment'>
 ----------
 *Quick and easy tutorial on how to make Matplotlib timelines.*
 ----------
