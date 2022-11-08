@@ -6,14 +6,14 @@ Quick and easy tutorial on how to make Matplotlib timelines.
 ----------
 Change Log (Most Recent: Nov 8, 2022)
 ----------
-- Added the Horizontal timeline tutorial
-  - All sections are labled
-  - Data from w3schools
+      - Added the Horizontal timeline tutorial
+             - All sections are labled
+             - Data from w3schools
 ----------
 VIEW THIS SECTION IN NOTEPAD
 ----------
-  
-                        gG88Pp                    
+
+                      gG88Pp                    
                      8888888b                   
                     d888::::8)                  
    G88888888888888  Y88888::8Y  88888888888888P 
